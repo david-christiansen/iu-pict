@@ -5,7 +5,7 @@
 @title{Indiana University pict}
 @author{David Christiansen}
 
-@defmodule[iu-logo]
+@defmodule[iu-pict]
 
 The Indiana University logo is convenient for IU slideshows. Here it is as a @racket[pict].
 
