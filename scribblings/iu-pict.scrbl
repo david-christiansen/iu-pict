@@ -2,7 +2,7 @@
 
 @require[@for-label[racket/base iu-pict pict]]
 
-@title{IU Logo as Pict}
+@title{Indiana University pict}
 @author{David Christiansen}
 
 @defmodule[iu-logo]
