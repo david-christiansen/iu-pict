@@ -13,5 +13,5 @@ The Indiana University logo is convenient for IU slideshows. Here it is as a @ra
 
 @section[#:tag "logo"]{The IU Logo}
 @defproc[(iu-logo (w positive?) (h positive? (floor (* w 1.25)))) pict?]{
-Draw the IU logo as a pict with height @racket[h] and width @racket[w]. If @racket[w] is omitted, the correct proportions are used.
+Draw the IU logo as a pict with width @racket[w] and height @racket[h]. If @racket[h] is omitted, the correct proportions are used.
 }
